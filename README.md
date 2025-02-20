@@ -1,7 +1,7 @@
 # MaterialsCrow
 
 ## Overview
-WIP: MaterialsCrow is an AI-driven framework for **automated materials simulations**, integrating **pymatgen, ASE, and DFT/MD engines**. It enables users to run simulations via natural language prompts. The work is motivated from MoleculesCrow repository by Andrew White's group. 
+WIP: MaterialsCrow is an AI-driven framework for **automated materials simulations**, integrating **pymatgen, ASE, and DFT/MD engines**. It enables users to setup and run simulations via natural language prompts. The work is motivated from MDCrow repository by Andrew White's group. 
 
 ## Features
 - Structure generation and manipulation (pymatgen, ASE)
